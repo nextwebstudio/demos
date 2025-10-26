@@ -9,7 +9,13 @@ const projects = [
   title: "PulseStack — SaaS Landing",
   desc: "Dark + neon tech landing with product-led narrative, pricing, ROI and testimonials.",
   img: "https://images.unsplash.com/photo-1551281044-8d8eff9d01d5?q=80&w=1200&auto=format&fit=crop",
-  url: "https://tuonome.github.io/landing-demo-2/"
+  url: "https://nextwebstudio.github.io/landing-demo-2/"
+  },
+  {
+  title: "SoundWave Pro — Product Landing",
+  desc: "Premium ecommerce landing with sticky buy bar, gallery, reviews and FAQ.",
+  img: "https://images.unsplash.com/photo-1606224161936-d1106cccf0f8?auto=format&fit=crop&w=900&q=80",
+  url: "https://nextwebstudio.github.io/landing-demo-3/"
   }
 ];
 
