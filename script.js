@@ -5,7 +5,12 @@ const projects = [
     img: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1200&auto=format&fit=crop",
     url: "https://nextwebstudio.github.io/landing-demo-1/"
   },
-  // 👇 aggiungi qui le prossime landing
+  {
+  title: "PulseStack — SaaS Landing",
+  desc: "Dark + neon tech landing with product-led narrative, pricing, ROI and testimonials.",
+  img: "https://images.unsplash.com/photo-1551281044-8d8eff9d01d5?q=80&w=1200&auto=format&fit=crop",
+  url: "https://tuonome.github.io/landing-demo-2/"
+  }
 ];
 
 document.getElementById("year").textContent = new Date().getFullYear();
