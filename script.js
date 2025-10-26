@@ -3,7 +3,7 @@ const projects = [
     title: "AgencyPro Landing",
     desc: "High-converting website for agencies with premium UI and animations.",
     img: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1200&auto=format&fit=crop",
-    url: "https://tuonome.github.io/landing-demo-1/"
+    url: "https://nextwebstudio.github.io/landing-demo-1/"
   },
   // 👇 aggiungi qui le prossime landing
 ];
