@@ -8,7 +8,7 @@ const projects = [
   {
   title: "PulseStack — SaaS Landing",
   desc: "Dark + neon tech landing with product-led narrative, pricing, ROI and testimonials.",
-  img: "https://images.unsplash.com/photo-1551281044-8d8eff9d01d5?q=80&w=1200&auto=format&fit=crop",
+  img: "https://landingi.com/wp-content/uploads/2023/02/saas-best-practices-cover-optimized.webp",
   url: "https://nextwebstudio.github.io/landing-demo-2/"
   },
   {
