@@ -14,13 +14,13 @@ const projects = [
   {
   title: "SoundWave Pro — Product Landing",
   desc: "Premium ecommerce landing with sticky buy bar, gallery, reviews and FAQ.",
-  img: "https://images.unsplash.com/photo-1606224161936-d1106cccf0f8?auto=format&fit=crop&w=900&q=80",
+  img: "https://landingi.com/wp-content/uploads/2023/12/Product-LPObszar-roboczy-1-1-optimized.webp",
   url: "https://nextwebstudio.github.io/landing-demo-3/"
   },
   {
   title: "EstatePrime — Lead Gen Real Estate",
   desc: "Landing immobiliare premium con lead magnet (PDF), form, social proof e FAQ.",
-  img: "https://images.unsplash.com/photo-1505691723518-36a5ac3b2d95?q=80&w=1200&auto=format&fit=crop",
+  img: "https://www.incomrealestate.com/sites/default/files/field/image/leadpages.png",
   url: "https://nextwebstudio.github.io/landing-demo-4/"
   }
 ];
