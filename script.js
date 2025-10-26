@@ -16,6 +16,12 @@ const projects = [
   desc: "Premium ecommerce landing with sticky buy bar, gallery, reviews and FAQ.",
   img: "https://images.unsplash.com/photo-1606224161936-d1106cccf0f8?auto=format&fit=crop&w=900&q=80",
   url: "https://nextwebstudio.github.io/landing-demo-3/"
+  },
+  {
+  title: "EstatePrime — Lead Gen Real Estate",
+  desc: "Landing immobiliare premium con lead magnet (PDF), form, social proof e FAQ.",
+  img: "https://images.unsplash.com/photo-1505691723518-36a5ac3b2d95?q=80&w=1200&auto=format&fit=crop",
+  url: "https://nextwebstudio.github.io/landing-demo-4/"
   }
 ];
 
